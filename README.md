@@ -30,7 +30,8 @@ google-site-verification=oT42drwAGecnuAJ6nJ1p5WhLrHxnxLWk4ym7XFy-j30
 - 📧 Email: ****spsiamahmed1111@gmail.c**  
 - 💼 LinkedIn: [linkedin.com/in/spsiamahmed1111](https://www.linkedin.com/in/spsiamahmed1111)  
 - 🌐 Website 1: [spsiamahmed.000.pe](http://spsiamahmed.000.pe)  
-- 🌐 Website 2: [freeahmedsiam.000.pe](https://freeahmedsiam.000.pe)  
+- 🌐 Website 2: [freeahmedsiam.000.pe](https://freeahmedsiam.000.pe)
+- 🌐 website 3 : [siam.ct.ws](Sp Siam Wordpress 
 - 🐙 GitHub: [github.com/Spsiamahmed](https://github.com/Spsiamahmed)  
 
 
@@ -40,3 +41,5 @@ google-site-verification=oT42drwAGecnuAJ6nJ1p5WhLrHxnxLWk4ym7XFy-j30
 
 ## 📌 Meta Description  
 *"Sp Siam Ahmed is a Full Stack Web Developer with 2+ years of experience in web design and development. Skilled in React, Angular, Node.js, PHP, Laravel, MySQL, MongoDB, and more. Passionate about creating responsive, user-friendly, and innovative web solutions."*
+## 💙 meta verification
+<meta name="google-site-verification" content="nyZT3_b71q33L_8Bogl3SFHSwKLwu667XYCvXQtj7yA" />
