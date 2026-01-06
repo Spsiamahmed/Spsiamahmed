@@ -1,9 +1,7 @@
-#google verification 
-<meta name="google-site-verification" content="nyZT3_b71q33L_8Bogl3SFHSwKLwu667XYCvXQtj7yA" />
 
 # 👨💻 SP Siam Ahmed | Full-Stack Web Developer
 
-![Header Banner](https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80)
+![Header Banner](siam.jpg)
 
 **Dhaka, Bangladesh** • **Building Scalable Web Solutions** • **SEO & Performance Expert**
 
