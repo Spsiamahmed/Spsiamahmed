@@ -11,7 +11,7 @@ I’m **Sp Siam Ahmed**, a Full Stack Web Developer with **2+ years of experienc
 💡 Problem-solving and tackling complex coding challenges is what excites me the most.  
 
 
-google-site-verification=oT42drwAGecnuAJ6nJ1p5WhLrHxnxLWk4ym7XFy-j30
+
 ## 🔧 Skills & Expertise  
 - **Front-End Development:** HTML, CSS, JavaScript (React.js, Angular, Vue.js)  
 - **Back-End Development:** Node.js, PHP, Python (Express.js, Laravel, Django)  
@@ -42,5 +42,5 @@ google-site-verification=oT42drwAGecnuAJ6nJ1p5WhLrHxnxLWk4ym7XFy-j30
 ## 📌 Meta Description  
 *"Sp Siam Ahmed is a Full Stack Web Developer with 2+ years of experience in web design and development. Skilled in React, Angular, Node.js, PHP, Laravel, MySQL, MongoDB, and more. Passionate about creating responsive, user-friendly, and innovative web solutions."*
 ## 💙 meta verification
-<meta name="google-site-verification" content="nyZT3_b71q33L_8Bogl3SFHSwKLwu667XYCvXQtj7yA" />
+
 <meta name="google-site-verification" content="nyZT3_b71q33L_8Bogl3SFHSwKLwu667XYCvXQtj7yA" />
