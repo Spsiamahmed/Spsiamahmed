@@ -56,10 +56,10 @@ I architect and develop full-stack web applications that are fast, responsive, a
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Portfolio Website](https://spsiamahmed.github.io)** | Modern responsive portfolio showcasing my work | HTML, CSS, JS, Bootstrap |
+| **[Arctic PDF](https://spsiamahmed.github.io/arctic-pdf/)** | Free browser-based PDF compressor with privacy-first processing | HTML, CSS, JavaScript, PDF.js, pdf-lib |
+| **[Magnific Tool](https://spsiamahmed.github.io/magnific/)** | Modern web utility project for UI/UX experiments and frontend tools | HTML, Tailwind CSS, JavaScript |
 | **E-Commerce Platform** | Full-featured online shopping solution | React, Node.js, MongoDB |
 | **Task Management App** | Productivity app with real-time updates | Next.js, Firebase, Tailwind |
-
----
 
 ## 📈 SEO & Performance Focus
 
