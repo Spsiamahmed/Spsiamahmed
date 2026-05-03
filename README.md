@@ -75,13 +75,18 @@ I architect and develop full-stack web applications that are fast, responsive, a
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spsiamahmed.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spsiamahmed.github.io/main/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spsiamahmed1111@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sp-siam-ahmed)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801400661593)
 
 </div>
+## 🏢 Organization
 
+All projects are developed under:
+
+**NLITH Agency – A Modern Web Development & SaaS Product Studio**  
+https://spsiamahmed.github.io/nlithagency/
 ---
 
 ## 🌟 Featured Blog Posts
