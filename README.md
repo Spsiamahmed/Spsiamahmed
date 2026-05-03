@@ -81,13 +81,11 @@ I architect and develop full-stack web applications that are fast, responsive, a
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801400661593)
 
 </div>
-## 🏢 Organization
 
-All projects are developed under:
 
-**NLITH Agency – A Modern Web Development & SaaS Product Studio**  
-https://spsiamahmed.github.io/nlithagency/
----
+[NLITH Agency – A Modern Web Development & SaaS Product Studio]
+(https://spsiamahmed.github.io/nlithagency/)
+
 
 ## 🌟 Featured Blog Posts
 
